@@ -14,7 +14,7 @@ function getProfileData(request) {
             <header>
               <h1>${data.name}</h1>
             </header>
-            <div class="border">&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;</div>
+            <div class="border">&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;&#x25BC;</div>
               <div class="details">
                 <h2>The Basics</h2>
                 <ul>

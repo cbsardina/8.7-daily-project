@@ -18,7 +18,7 @@ header {
   font-stretch: expanded;
 }
 header h1 {
-  font-weight: 200;
+  font-weight: 100;
   text-align: center;
   font-size: 4em;
   margin: 0;
@@ -27,32 +27,55 @@ header h1 {
 .main {
   width: 80%;
   background-color: #fff;
-  margin: 0;
-  box-sizing: border-box;
-  display: inline-block;
+  margin: 3em auto;
+  min-height: 380px;
 }
 .details {
   box-sizing: border-box;
   margin: 0;
   width: 38%;
   float: left;
+  padding-left: 150px;
+}
+.details h2 {
+  font-size: 2em;
+  font-weight: 900;
 }
 ul {
   list-style: none;
   padding-left: 0;
+  color: gray;
+  font-size: .9em;
 }
 .story {
   float: left;
   margin: 0;
   box-sizing: border-box;
-  width: 38%;
+  width: 30%;
+  padding-left: 50px;
+}
+.story p {
+  border-left: 1px solid gray;
+  padding-left: 20px;
+  color: gray;
+}
+.story h2 {
+  font-size: 2em;
+  padding-left: 20px;
+  font-weight: 900;
 }
 .profilePic {
   width: 20%;
-  float: right;
+  float: left;
+  padding: 60px 0 0 50px;
 }
 img {
   border-radius: 50%;
-  width: 5em;
-  height: 5em;
+  width: 7em;
+  height: 7em;
+  color: rgb(118, 169, 169);
+}
+span {
+  color: rgb(118, 169, 169);
+  font-size: 1.1em;
 }
