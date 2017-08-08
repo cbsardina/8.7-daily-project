@@ -1,0 +1,58 @@
+body {
+  background-color: #000;
+
+}
+header {
+  width: 100%;
+  background-color: rgb(29, 29, 29);
+  color: #fff;
+  margin: 2em auto;
+  margin-bottom: -6px;
+
+}
+.border {
+  color: rgb(29, 29, 29);
+  font-size: 1.5em;
+  margin: 0;
+  padding: 0;
+  font-stretch: expanded;
+}
+header h1 {
+  font-weight: 200;
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  padding: 0;
+}
+.main {
+  width: 80%;
+  background-color: #fff;
+  margin: 0;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.details {
+  box-sizing: border-box;
+  margin: 0;
+  width: 38%;
+  float: left;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+.story {
+  float: left;
+  margin: 0;
+  box-sizing: border-box;
+  width: 38%;
+}
+.profilePic {
+  width: 20%;
+  float: right;
+}
+img {
+  border-radius: 50%;
+  width: 5em;
+  height: 5em;
+}
